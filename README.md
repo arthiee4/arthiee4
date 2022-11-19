@@ -1,4 +1,4 @@
-## Hi, i am Arthur and i a young/student full stack developer <3
+## Hi, i am Arthur and i a young/student full stack <3
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
