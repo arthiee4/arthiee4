@@ -1,4 +1,4 @@
-## Hi, i am Arthur and i a young python dev <3
+## Hi, i am Arthur and im a young python dev <3
 
 <div align="left">
   <a href="https://github.com/arthiee4">
