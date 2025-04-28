@@ -1,7 +1,7 @@
 <div align="left">
 <br>
   <a href="https://ayo.so/arthie" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20All%20my%20medias-3498db?style=flat&logoColor=white" height="50" />
+    <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20All%20my%20socials-3498db?style=flat&logoColor=white" height="50" />
   </a>
 <br><br> <!-- espaço extra -->
 </div>
