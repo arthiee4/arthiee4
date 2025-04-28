@@ -1,11 +1,16 @@
+<div align="center">
+<br>
+  <a href="https://ayo.so/arthie" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%20All%20my%20medias-3498db?style=flat&logoColor=white" height="50" />
+  </a>
+<br><br> <!-- espaço extra -->
+</div>
 
+<div align="center">
+<br>
 
-<div align="left">
-  <a href="https://github.com/arthiee4">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=arthiee4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
+<img src="https://github-readme-stats.vercel.app/api?username=arthiee4&show_icons=true&theme=transparent&hide_title=true&count_private=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthiee4&layout=compact&langs_count=7&theme=dark"/>
 
-<div>
-  <a href="https://github.com/arthiee4">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthiee4&layout=compact&langs_count=7&theme=github_dark"/>
+<br>
 </div>
