@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=godot,js,cs,cpp&theme=light" />
+<img src="https://skillicons.dev/icons?i=godot,python,js,cs,cpp&theme=light" />
 
 <br>
 
